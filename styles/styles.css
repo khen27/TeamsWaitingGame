@@ -13,11 +13,11 @@ body {
 
 #game-container {
     background-color: black;
-    width: 1200px;
+    width: 1000px;
     aspect-ratio: 16/9;
     position: absolute;
-    left: calc(50% - 600px);
-    top: 500px;
+    left: calc(50% - 500px);
+    top: 70%;
 }
 
 #game-container embed {
